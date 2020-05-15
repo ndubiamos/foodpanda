@@ -1,6 +1,8 @@
-﻿# foodpanda Boilerplate with Firebase Login 
+﻿# Demo React Native + Firebase Auth + Expo For Foodpanda
 
-More templates at [www.humanelectric.co](http://humanelectric.co/) 💖
+Hey this my foodpanda project app not so professional without comments. 
+
+Lets get started with a simple UI implementing some features you  L💖ve
 
 ## How to use?
 
@@ -28,7 +30,7 @@ export const FIREBASE_CONFIG = {
   // rest of your firebase config
 };
 ```
-
+-If you wonder what the hell is this... get firebase docs can explain it better.
 4. Run project on iOS / Android.
 
 ```js
@@ -49,11 +51,11 @@ expo eject
 ![login](https://bitbucket.org/ndubiamos/foodpanda/master/assets/login.png?raw=true)
 ![register](https://bitbucket.org/ndubiamos/foodpanda/master/assets/register.png?raw=true)
 ![forgot](https://bitbucket.org/ndubiamos/foodpanda/master/assets/forgot.png?raw=true)
-![dashboard](https://bitbucket.org/ndubiamos/foodpanda/master/assets/dashboard.png?raw=true)
+
 
 ## Live preview on Expo
 
-Template is available on Expo:
+Demo of this template is available on Expo:
 https://expo.io/@ndubiamos/foodpanda-login
 
 ## Support
@@ -61,8 +63,8 @@ https://expo.io/@ndubiamos/foodpanda-login
 In case of any questions or problems, please contact me at:
 [hello@humanelectric.co](mailto:hello@humanelectric.co)
 
-### Happy Coding 💖
+### Happy Coding 💖 
 
-### [Ndubi Amos] (http://linkedin.com/in/ndubiamos)
+### [Ndubi Amos](http://linkedin.com/in/ndubiamos)
 
-### [Humanelectric.co](http://humanelectric.co/)
+
