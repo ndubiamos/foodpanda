@@ -56,7 +56,7 @@ expo eject
 ## Live preview on Expo
 
 Demo of this template is available on Expo:
-https://expo.io/@ndubiamos/foodpanda-login
+https://expo.io/@foodpanda/foodpanda
 
 ## Support
 
